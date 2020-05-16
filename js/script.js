@@ -1,9 +1,9 @@
 "use strict";
-const result = prompt ("Как вас зовут?",'');
-console.log(result);
+//const result = prompt ("Как вас зовут?",'');
+//console.log(result);
 
  
-alert (`Привет ${result}!`);
+//alert (`Привет ${result}!`);
 
 //const answer = prompt("Вам есть 18?","18");
 //console.log(typeof(answer));
@@ -16,3 +16,5 @@ alert (`Привет ${result}!`);
 
 //console.log(typof(answers));
 //console.log(typeof(null));
+
+console.log (4 - +"5");
